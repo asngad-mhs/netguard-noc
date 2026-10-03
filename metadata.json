@@ -1,0 +1,6 @@
+{
+  "name": "NetGuard NOC",
+  "description": "Multi-Vendor Network Performance & Security Monitoring (MikroTik, Cisco, Ruijie, Linksys), WAN/VLAN/DHCP telemetry, Grafana live charts, Telegram alerts & RBAC reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
